@@ -1,5 +1,5 @@
 # Primeiro Repositório - Star Wars
 
-![tiefighter.jpeg](Tie_Fighter)
+![Tie_fighter](tiefighter.jpeg)
 
 Este repositório serve de exemplo para o curso de Git e Github
